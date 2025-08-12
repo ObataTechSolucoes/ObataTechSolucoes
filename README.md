@@ -34,7 +34,8 @@ Entregar soluções tecnológicas que aumentem a produtividade e competitividade
 ---
 
 ## 📫 Entre em Contato
-- **E-mail:** obatatech@gmail.com  
+- **E-mail:** obatatech@gmail.com
+- **Instagram:** [@obata.tech](https://www.instagram.com/obata.tech/)
 <!-- - **LinkedIn:** [OBATA TECH SOLUÇÕES LTDA](https://www.linkedin.com) -->
 - **GitHub:** [@ObataTechSolucoes](https://github.com/ObataTechSolucoes)
 
