@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🚀 OBATA TECH SOLUÇÕES LTDA
 
-<!--
-**ObataTechSolucoes/ObataTechSolucoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Inovação, tecnologia e resultados para o seu negócio.**
 
-Here are some ideas to get you started:
+A **OBATA TECH SOLUÇÕES LTDA** é uma empresa especializada no desenvolvimento de sistemas, automações e soluções digitais sob medida para empresas que desejam crescer com eficiência e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Quem Somos
+Somos uma equipe apaixonada por tecnologia e comprometida em transformar ideias em soluções que geram impacto real para os nossos clientes. Nosso objetivo é simplificar processos, otimizar operações e impulsionar resultados.
+
+---
+
+## 🛠️ O que Fazemos
+- **Desenvolvimento de Sistemas Web e Mobile**
+- **Integrações e APIs**
+- **Automação de Processos**
+- **Soluções em IoT**
+- **Consultoria e Suporte Técnico**
+
+---
+
+## 💻 Tecnologias que Utilizamos
+- **Linguagens:** PHP, JavaScript, TypeScript, Python, Java
+- **Frameworks:** Laravel, NestJS, Next.js, React, React Native
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Outras:** Docker, Git, APIs RESTful, IoT
+
+---
+
+## 🌎 Nossa Missão
+Entregar soluções tecnológicas que aumentem a produtividade e competitividade dos nossos clientes, com foco em qualidade, inovação e parceria de longo prazo.
+
+---
+
+## 📫 Entre em Contato
+- **E-mail:** contato@obatatech.com.br  
+- **LinkedIn:** [OBATA TECH SOLUÇÕES LTDA](https://www.linkedin.com)  
+- **GitHub:** [@ObataTechSolucoes](https://github.com/ObataTechSolucoes)
+
+---
+
+💙 Feito com dedicação pela equipe **OBATA TECH SOLUÇÕES LTDA**.
